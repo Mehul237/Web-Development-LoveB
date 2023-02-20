@@ -49,13 +49,13 @@ Build fullstack React.js application with Node.js, Express.js & MongoDB (Mern) W
 
 3. Flex Boa & Grid
     - CSS Flexbox, Responsiveness, Grid Container
-      Minor Project based on HTML and CSS
+      - Minor Project based on HTML and CSS
 
 4. Animation and Responsiveness
     - Animation and keyframes , Transition, Shorthand Animation
     - Media Query, Responsive Design of Text and Images
-      Responsive Mini Project
-      A Mini Project with Tailwind
+      - Responsive Mini Project
+      - A Mini Project with Tailwind
       
 5. JavaScript Basics
     - Introduction to JS, Variable, Datatypes,Operator Precidence
@@ -64,12 +64,15 @@ Build fullstack React.js application with Node.js, Express.js & MongoDB (Mern) W
     - FIll, Filter, Map, Slice, Splice
   
 6. DOM Manipulation and Modern JS
-        DOM, BOM, Window Object, Mini Project
+     - DOM, BOM, Window Object
      - Async-Await, Event Loop, Event Listners
      - Classes and Exports, Getters and Setters, Promises, Fetch
+        - Mini Project
        
-7. JS Mini Project-I -- Mini Project with HTML, CSS and JS
+7. JS Mini Project-I 
+      - Mini Project with HTML, CSS and JS
    
-8. JS Mini Project-II --- Mini Project with HTML, CSS and JS
+8. JS Mini Project-II 
+      - Mini Project with HTML, CSS and JS
    
 9. React Basic
